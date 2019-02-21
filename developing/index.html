@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  <link rel="shortcut icon" href="../img/favicon.ico">
+  <title>Developing chaincode - Blockchain Stuff</title>
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="../css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../css/theme_extra.css" type="text/css" />
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Developing chaincode";
+    var mkdocs_page_input_path = "developing.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+      <div class="wy-side-nav-search">
+        <a href=".." class="icon icon-home"> Blockchain Stuff</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+	<ul class="current">
+	  
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="..">Home</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../usecases/">Use Cases</a>
+	    </li>
+          
+            <li class="toctree-l1 current">
+		
+    <a class="current" href="./">Developing chaincode</a>
+    <ul class="subnav">
+            
+    <li class="toctree-l2"><a href="#developing-chaincode">Developing Chaincode</a></li>
+    
+        <ul>
+        
+            <li><a class="toctree-l3" href="#reference">Reference</a></li>
+        
+            <li><a class="toctree-l3" href="#other-interesting-stuff">Other interesting stuff</a></li>
+        
+        </ul>
+    
+
+    </ul>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../deploying/">Deploying chaincoce</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../architecture/">Architecture</a>
+	    </li>
+          
+        </ul>
+      </div>
+      &nbsp;
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="..">Blockchain Stuff</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="..">Docs</a> &raquo;</li>
+    
+      
+    
+    <li>Developing chaincode</li>
+    <li class="wy-breadcrumbs-aside">
+      
+        <a href="https://github.com/dwakeman/blockchain-stuff/edit/master/docs/developing.md"
+          class="icon icon-github"> Edit on GitHub</a>
+      
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="developing-chaincode">Developing Chaincode</h1>
+<h2 id="reference">Reference</h2>
+<ul>
+<li>Develop a smart contract with the IBM Blockchain Platform <a href="" target="_blank">VSCode Extension</a></li>
+<li>Run a commercial paper smart contract with the <a href="https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension" target="_blank"></a></li>
+<li><a href="" target="_blank">VSCode Extension</a></li>
+<li>IBM Docs: Deploying to <a href="https://console.bluemix.net/docs/services/blockchain/develop_starter.html#deploying-a-business-networks-on-starter-plan" target="_blank">IBM Blockchain Platform Starter Plan</a></li>
+<li>Blog: Deploying to <a href="https://hackernoon.com/deploy-a-business-network-on-free-ibm-blockchain-starter-plan-93fafb3dd997" target="_blank">IBM Blockchain Platform Starter Plan</a></li>
+<li><a href="https://developer.ibm.com/blockchain" target="_blank">IBM Blockchain Developer Center</a></li>
+<li><a href="https://developer.ibm.com/tv/blockchain-innovators" target="_blank">Blockchain Innovators Series</a> on <a href="https://developer.ibm.com/tv/" target="_blank">DeveloperWorks TV</a></li>
+<li><a href="https://hyperledger.github.io/composer/support/support-index.html" target="_blank">Hyperledger</a> Community</li>
+<li><a href="https://developer.ibm.com/courses/all/blockchain-essentials" target="_blank">IBM Blockchain Essentials</a> badge</li>
+<li><a href="https://developer.ibm.com/courses/all/ibm-blockchain-foundation-developer" target="_blank">IBM Blockchain Foundation Developer</a> badge</li>
+<li>Dave Wakeman hands-on video: <a href="https://youtu.be/sBg9R0r_7oA" target="_blank">Writing your first application</a> with Hyperledger Fabric</li>
+<li>Learn how to <a href="https://developer.ibm.com/tutorials/ibm-blockchain-platform-for-icp-full-fabric-deployment/">Use the IBM Blockchain Platform for a full fabric deployment</a></li>
+<li>Learn how to <a href="https://developer.ibm.com/tutorials/operate-distributed-peer-on-ibm-blockchain-platform/">Operate a distributed peer on IBM Blockchain Platform</a></li>
+<li>Learn how to <a href="https://developer.ibm.com/tutorials/ibm-blockchain-platform-for-icp-full-fabric-deployment/">Use the IBM Blockchain Platform for a full fabric deployment</a></li>
+<li>Learn how to <a href="https://developer.ibm.com/tutorials/operate-distributed-peer-on-ibm-blockchain-platform/">Operate a distributed peer on IBM Blockchain Platform</a></li>
+<li>Developing <a href="https://medium.com/@aleksobol/explained-java-chaincode-in-hyperledger-fabric-fc63fccc84a3" target="_blank">Java Chaincode</a> in Hyperledger Fabric</li>
+<li><a href="https://developer.ibm.com/patterns/write-a-smart-contract-for-the-fabcarcommercial-paper-or-iks-cluster-with-saas-v2-beta-network-think" target="_blank">Use an IKS Cluster to deploy a Fabric network smart contract onto the Blockchain Platform 2.0 (Beta)</a></li>
+</ul>
+<h2 id="other-interesting-stuff">Other interesting stuff</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=cNvOQp8r0xo&amp;t=244">Vehicle Lifecycle Demo</a></li>
+<li><a href="https://www.ibm.com/developerworks/library/mw-1708-mery-blockchain/1708-mery.html">Make your blockchain smart contracts smarter with business rules</a></li>
+<li><a href="../files/Blockchain-PoT-Lab-Workbook-v1.8.1.pdf">Lab Guide</a></li>
+</ul>
+<p><a href="" target="_blank"></a></p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../deploying/" class="btn btn-neutral float-right" title="Deploying chaincoce">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../usecases/" class="btn btn-neutral" title="Use Cases"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="http://www.mkdocs.org">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" style="cursor: pointer">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+          <a href="https://github.com/dwakeman/blockchain-stuff/" class="fa fa-github" style="float: left; color: #fcfcfc"> GitHub</a>
+      
+      
+        <span><a href="../usecases/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../deploying/" style="color: #fcfcfc">Next &raquo;</a></span>
+      
+    </span>
+</div>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
+
+</body>
+</html>
