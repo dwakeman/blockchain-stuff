@@ -40,29 +40,6 @@
 - Forrester <a href="https://www.ibm.com/account/reg/us-en/signup?formid=urx-33572" target="_blank">Total Economic Impact</a> (TEI) Report
 
 
-## For Developers
-
-- Develop a smart contract with the IBM Blockchain Platform <a href="" target="_blank">VSCode Extension</a>
-- Run a commercial paper smart contract with the <a href="https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension" target="_blank"></a>
-- <a href="" target="_blank">VSCode Extension</a>
-- IBM Docs: Deploying to <a href="https://console.bluemix.net/docs/services/blockchain/develop_starter.html#deploying-a-business-networks-on-starter-plan" target="_blank">IBM Blockchain Platform Starter Plan</a>
-- Blog: Deploying to <a href="https://hackernoon.com/deploy-a-business-network-on-free-ibm-blockchain-starter-plan-93fafb3dd997" target="_blank">IBM Blockchain Platform Starter Plan</a>
-- <a href="https://developer.ibm.com/blockchain" target="_blank">IBM Blockchain Developer Center</a>
-- <a href="https://developer.ibm.com/tv/blockchain-innovators" target="_blank">Blockchain Innovators Series</a> on <a href="https://developer.ibm.com/tv/" target="_blank">DeveloperWorks TV</a>
-- <a href="https://hyperledger.github.io/composer/support/support-index.html" target="_blank">Hyperledger</a> Community
-- <a href="https://developer.ibm.com/courses/all/blockchain-essentials" target="_blank">IBM Blockchain Essentials</a> badge
-- <a href="https://developer.ibm.com/courses/all/ibm-blockchain-foundation-developer" target="_blank">IBM Blockchain Foundation Developer</a> badge
-- Dave Wakeman hands-on video: <a href="https://youtu.be/sBg9R0r_7oA" target="_blank">Writing your first application</a> with Hyperledger Fabric
-- Learn how to [Use the IBM Blockchain Platform for a full fabric deployment](https://developer.ibm.com/tutorials/ibm-blockchain-platform-for-icp-full-fabric-deployment/)
-- Learn how to [Operate a distributed peer on IBM Blockchain Platform](https://developer.ibm.com/tutorials/operate-distributed-peer-on-ibm-blockchain-platform/)
-- [Java Chaincode in Hyperledger Fabric](https://medium.com/@aleksobol/explained-java-chaincode-in-hyperledger-fabric-fc63fccc84a3)
-
-## Tutorials and Samples
-
-- Hyperledger Fabric <a href="https://hyperledger-fabric.readthedocs.io/en/release-1.4/tutorial/commercial_paper.html" target="_blank">Commercial Paper</a> tutorial
-- Build a <a href="https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/" target="_blank">blockchain insurance</a> app
-- Develop an <a href="https://developer.ibm.com/code/patterns/develop-an-iot-asset-tracking-app-using-blockchain" target="_blank">IoT asset tracking app</a> with blockchain
-
 ## Other interesting stuff
 
 - <a href="https://www.youtube.com/watch?v=cNvOQp8r0xo&t=244" target="_blank">Vehicle Lifecycle Demo</a>
