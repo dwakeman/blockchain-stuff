@@ -23,7 +23,7 @@
 - <a href="https://developer.ibm.com/patterns/write-a-smart-contract-for-the-fabcarcommercial-paper-or-iks-cluster-with-saas-v2-beta-network-think" target="_blank">Use an IKS Cluster to deploy a Fabric network smart contract onto the Blockchain Platform 2.0 (Beta)</a> _** NOT for use with IBM Blockchain Platform Starter Plan_
 
 ## Tutorials and Samples
-
+- IBM Blockchain <a href="https://bluedemos.com/show/1989" target="_blank">Vehicle Lifecycle</a> Demo (Hands-on Lab)
 - Hyperledger Fabric <a href="https://hyperledger-fabric.readthedocs.io/en/release-1.4/tutorial/commercial_paper.html" target="_blank">Commercial Paper</a> tutorial
 - Build a <a href="https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/" target="_blank">blockchain insurance</a> app
 - Develop an <a href="https://developer.ibm.com/code/patterns/develop-an-iot-asset-tracking-app-using-blockchain" target="_blank">IoT asset tracking app</a> with blockchain
