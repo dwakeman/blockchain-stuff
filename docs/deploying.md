@@ -7,4 +7,4 @@
 - Blog: <a href="https://hackernoon.com/deploy-a-business-network-on-free-ibm-blockchain-starter-plan-93fafb3dd997" target="_blank">Deploying to IBM Blockchain Platform Starter Plan</a>
 - [IBM Docs - Deploy to IBM Blockchain Platform Starter Plan](https://console.bluemix.net/docs/services/blockchain/develop_starter.html#deploying-a-business-networks-on-starter-plan)
 - [Blog on Deploying to IBM Blockchain Platform Starter Plan](https://hackernoon.com/deploy-a-business-network-on-free-ibm-blockchain-starter-plan-93fafb3dd997)
-- Learn how to set up your IBM Blockchain Platform 2.0 beta environment with this [video](https://www.youtube.com/watch?v=8wtHsD7-kS4)
+- Learn how to set up your IBM Blockchain Platform 2.0 beta environment with this <a href="https://www.youtube.com/watch?v=8wtHsD7-kS4" target="_blank">video</a>

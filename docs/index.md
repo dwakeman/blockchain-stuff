@@ -34,6 +34,7 @@
 - <a href="http://www.ibm.com/blockchain" target="_blank">IBM Blockchain</a>
 - <a href="https://www.ibm.com/blockchain/hyperledger.html" target="_blank">IBM and Hyperledger</a>
 - Hyperledger Fabric: <a href="https://arxiv.org/abs/1801.10228v1" target="_blank">A Distributed Operating System for Permissioned Blockchains</a>
+- FastFabric: <a href="https://arxiv.org/abs/1901.00910" target="_blank">Scaling Hyperledger Fabric to 20,000 Transactions per Second</a>
 - Hyperleger Fabric: <a href="https://hyperledger-fabric.readthedocs.io" target="_blank">read the docs</a>
 - <a href="https://www.youtube.com/watch?v=sJaT2L99BUo" target="_blank">Blockchain components in a network explained</a> for developers
 - <a href="https://www.ibm.com/account/reg/signup?formid=urx-31528" target="_blank">How to be a blockchain network founder</a>
@@ -44,9 +45,23 @@
 
 - <a href="https://www.youtube.com/watch?v=cNvOQp8r0xo&t=244" target="_blank">Vehicle Lifecycle Demo</a>
 - <a href="https://www.ibm.com/developerworks/library/mw-1708-mery-blockchain/1708-mery.html" target="_blank">Make your blockchain smart contracts smarter with business rules</a>
+
+<!--
+## IBM Blockchain Platform V1 Labs
+
 - <a href="files/Blockchain-PoT-Lab-Workbook-v1.8.1.pdf" target="_blank">Lab Guide</a>
+-->
 
+## IBM Blockchain Platform Labs
 
+-  <a href="https://ibm-blockchain-workshop.github.io/docs/Lab1-IBPLearnBlockchainConcepts.pdf" target="_blank">Lab 1</a>: Learn Blockchain Concepts
+-  <a href="https://ibm-blockchain-workshop.github.io/docs/Lab2-IBPVSCodeDevelopingyourFirstContract.pdf" target="_blank">Lab 2</a>: IBM Blockchain Platform <a href="https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform" target="_blank">VSCode Extension</a>: Developing your first contract
+-  <a href="https://ibm-blockchain-workshop.github.io/docs/Lab3-IBPVSCodeExtensionUsinganExistingContract.pdf" target="_blank">Lab 3</a>: IBM Blockchain Platform <a href="https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform" target="_blank">VSCode Extension</a>: Using an existing contract
+-  <a href="https://ibm-blockchain-workshop.github.io/docs/Lab4-IBPVSCodeExtensionConnecttoExistingNetwork.pdf" target="_blank">Lab 4</a>: IBM Blockchain Platform <a href="https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform" target="_blank">VSCode Extension</a>: Connecting to an existing network
+-  <a href="https://ibm-blockchain-workshop.github.io/docs/Lab5-IBPVSCodeExtensionImportCommercialPaperSample.pdf" target="_blank">Lab 5</a>: IBM Blockchain Platform <a href="https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform" target="_blank">VSCode Extension</a>: Import the <a href="https://hyperledger-fabric.readthedocs.io/en/release-1.4/tutorial/commercial_paper.html" target="_blank">Commercial Paper</a> sample
+
+!!! note
+    Lab 1 is only accessible using a <a href="https://bluedemos.com/show/2340" target="_blank">virtual machine</a> provided by IBM. All other labs can be completed locally on any machine that has the <a href="https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform" target="_blank">VSCode Extension</a> installed.  These labs were written for use by the same virtual machine as lab 1, so there may be minor differences in the screen shots when working locally.
 
 
 <a href="" target="_blank"></a>
