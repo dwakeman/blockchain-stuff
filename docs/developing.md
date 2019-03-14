@@ -28,6 +28,10 @@
 - Build a <a href="https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/" target="_blank">blockchain insurance</a> app
 - Develop an <a href="https://developer.ibm.com/code/patterns/develop-an-iot-asset-tracking-app-using-blockchain" target="_blank">IoT asset tracking app</a> with blockchain
 
-
+## Additional Documentation
+- <a href="https://fabric-shim.github.io/release-1.4/index.html" target="_blank">Fabric Shim</a>
+- <a href="https://fabric-shim.github.io/release-1.4/fabric-contract-api.Context.html" target="_blank">Fabric Shim - Chaincode Context</a>
+- <a href="https://fabric-shim.github.io/release-1.4/fabric-shim.ChaincodeStub.html" target="_blank">Fabric Shim - Chaincode Stub</a>
+- <a href="https://github.com/jeffet/commpaper/blob/master/papercontract.js" target="_blank">Query Examples</a>
 
 <a href="" target="_blank"></a>
