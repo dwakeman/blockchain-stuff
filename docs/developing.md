@@ -27,6 +27,9 @@
 - Hyperledger Fabric <a href="https://hyperledger-fabric.readthedocs.io/en/release-1.4/tutorial/commercial_paper.html" target="_blank">Commercial Paper</a> tutorial
 - Build a <a href="https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/" target="_blank">blockchain insurance</a> app
 - Develop an <a href="https://developer.ibm.com/code/patterns/develop-an-iot-asset-tracking-app-using-blockchain" target="_blank">IoT asset tracking app</a> with blockchain
+- Series: <a href="https://developer.ibm.com/series/code-pattern-series-build-your-first-blockchain-application/" target="_blank">Build your first blockchain application</a>
+- <a href="https://developer.ibm.com/patterns/build-a-blockchain-network/" target="_blank">Create a basic blockchain network using the Blockchain Platform V2.0</a>
+- <a href="https://developer.ibm.com/patterns/implementing-blockchain-events-using-ibp-vscode-extension/" target="_blank">Emit events from Blockchain Platform V2.0</a>
 
 ## Additional Documentation
 - <a href="https://fabric-shim.github.io/release-1.4/index.html" target="_blank">Fabric Shim</a>
