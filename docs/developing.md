@@ -36,5 +36,7 @@
 - <a href="https://fabric-shim.github.io/release-1.4/fabric-contract-api.Context.html" target="_blank">Fabric Shim - Chaincode Context</a>
 - <a href="https://fabric-shim.github.io/release-1.4/fabric-shim.ChaincodeStub.html" target="_blank">Fabric Shim - Chaincode Stub</a>
 - <a href="https://github.com/jeffet/commpaper/blob/master/papercontract.js" target="_blank">Query Examples</a>
+- <a href="https://github.com/IBM-Blockchain-Starter-Kit/api-bootstrap" target="_blank">REST API Scaffold for use in Blockchain Starter Kit</a>
+
 
 <a href="" target="_blank"></a>
