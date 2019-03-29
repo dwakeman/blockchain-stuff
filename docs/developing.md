@@ -29,7 +29,7 @@
 - Develop an <a href="https://developer.ibm.com/code/patterns/develop-an-iot-asset-tracking-app-using-blockchain" target="_blank">IoT asset tracking app</a> with blockchain
 - Series: <a href="https://developer.ibm.com/series/code-pattern-series-build-your-first-blockchain-application/" target="_blank">Build your first blockchain application</a>
 - <a href="https://developer.ibm.com/patterns/build-a-blockchain-network/" target="_blank">Create a basic blockchain network using the Blockchain Platform V2.0</a>
-- <a href="https://developer.ibm.com/patterns/implementing-blockchain-events-using-ibp-vscode-extension/" target="_blank">Emit events from Blockchain Platform V2.0</a>
+
 
 ## Additional Documentation
 - <a href="https://fabric-shim.github.io/release-1.4/index.html" target="_blank">Fabric Shim</a>
@@ -37,6 +37,11 @@
 - <a href="https://fabric-shim.github.io/release-1.4/fabric-shim.ChaincodeStub.html" target="_blank">Fabric Shim - Chaincode Stub</a>
 - <a href="https://github.com/jeffet/commpaper/blob/master/papercontract.js" target="_blank">Query Examples</a>
 - <a href="https://github.com/IBM-Blockchain-Starter-Kit/api-bootstrap" target="_blank">REST API Scaffold for use in Blockchain Starter Kit</a>
+
+## Emitting Events From Chaincode
+- <a href="https://hyperledger-fabric.readthedocs.io/en/release-1.4/peer_event_services.html?highlight=event" target="_blank">Peer channel-based event services</a>
+- How to use the <a href="https://fabric-sdk-node.github.io/tutorial-channel-events.html" target="_blank">channel-based event services</a> in your node.js client application
+- <a href="https://developer.ibm.com/patterns/implementing-blockchain-events-using-ibp-vscode-extension/" target="_blank">Emit events from Blockchain Platform V2.0</a> using the <a href="https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform" target="_blank">VSCode Extension</a>
 
 
 <a href="" target="_blank"></a>
