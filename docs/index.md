@@ -24,7 +24,7 @@
 - <a href="https://www.slideshare.net/MattLucas3/ibm-blockchain-platform-explained-v113" target="_blank">IBM Blockchain Platform Explained</a>
 - <a href="https://www.slideshare.net/MattLucas3/blockchain-whats-new-in-hyperledger-fabric-oct-2018" target="_blank">What's New in Blockchain Technology</a>
 - <a href="https://www.slideshare.net/MattLucas3/blockchain-ibm-cloud-garages-explained-v11" target="_blank">IBM Cloud Garage with Blockchain</a>
-
+- <a href="files/Blockchain-Explained-Memphis.pdf" target="_blank">Blockchain Explained - Memphis Session</a>
 
 
 ## General
